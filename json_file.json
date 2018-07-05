@@ -1,0 +1,27 @@
+[
+	{
+		"university": "KSK Univercity Of Parctical Education",
+		"location": "Meghalaya",
+		"url": "https://www.KSK Univercity Of Parctical Education.com"
+	},
+	{
+		"university": "University of Calicut",
+		"location": "Kerala",
+		"url": "https://www.University of Calicut.com"
+	},
+	{
+		"university": "University of Rajasthan",
+		"location": "Rajasthan",
+		"url": "https://www.University of Rajasthan.com"
+	},
+	{
+		"university": "Savitribai Phule Pune University",
+		"location": "Pune",
+		"url": "https://www.Savitribai Phule Pune University.com"
+	},
+	{
+		"university": "University of Delhi",
+		"location": "Delhi",
+		"url": "https://www.University of Delhi.com"
+	}
+]
